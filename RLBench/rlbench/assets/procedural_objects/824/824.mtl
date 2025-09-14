@@ -1,12 +1,3 @@
-# Blender MTL File: 'None'
-# Material Count: 1
-
-newmtl 824_mtl
-Ns 96.078431
-Ka 0.000000 0.000000 0.000000
-Kd 0.090922 0.668415 0.042008
-Ks 0.500000 0.500000 0.500000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd 824.png
+version https://git-lfs.github.com/spec/v1
+oid sha256:226efe7a9ac009af4c5c8e8d98deaa5ddcf18f6f02c7c1750ce005b575258636
+size 212

@@ -1,12 +1,3 @@
-# Blender MTL File: 'None'
-# Material Count: 1
-
-newmtl 470_mtl
-Ns 96.078431
-Ka 0.000000 0.000000 0.000000
-Kd 0.064050 0.477262 0.316460
-Ks 0.500000 0.500000 0.500000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd 470.png
+version https://git-lfs.github.com/spec/v1
+oid sha256:37f29869ad29c69b3cb97c453d45f57edf5c84f6ada3210048e851a2cedbd603
+size 212

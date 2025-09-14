@@ -26,6 +26,8 @@ OMP_NUM_THREADS=4 vllm serve /home/s84414554/qwen3_finetune/checkpoints/Qwen3-8B
       put_groceries_adapter=/home/s84414554/qwen3_finetune/roboprompt-data/output/put_grocery \
       stack_cups_adapter=/home/s84414554/qwen3_finetune/roboprompt-data/output/stack_cup \
       light_bulb_adapter=/home/s84414554/qwen3_finetune/roboprompt-data/output/light_bulb_in \
+      stack_blocks_adapter=/home/s84414554/qwen3_finetune/roboprompt-data/output/stack_blocks \
+      
   --gpu-memory-utilization 0.90 \
   --max-model-len 32768 \
   --port 8001 \

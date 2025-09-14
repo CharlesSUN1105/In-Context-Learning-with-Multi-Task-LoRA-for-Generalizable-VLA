@@ -1,31 +1,3 @@
-{
-  "additional_special_tokens": [
-    "<|im_start|>",
-    "<|im_end|>",
-    "<|object_ref_start|>",
-    "<|object_ref_end|>",
-    "<|box_start|>",
-    "<|box_end|>",
-    "<|quad_start|>",
-    "<|quad_end|>",
-    "<|vision_start|>",
-    "<|vision_end|>",
-    "<|vision_pad|>",
-    "<|image_pad|>",
-    "<|video_pad|>"
-  ],
-  "eos_token": {
-    "content": "<|endoftext|>",
-    "lstrip": false,
-    "normalized": false,
-    "rstrip": false,
-    "single_word": false
-  },
-  "pad_token": {
-    "content": "<|endoftext|>",
-    "lstrip": false,
-    "normalized": false,
-    "rstrip": false,
-    "single_word": false
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6676f091c8bc4d1b50146427cfde92073402866b87b6e39223227931b70083e9
+size 616

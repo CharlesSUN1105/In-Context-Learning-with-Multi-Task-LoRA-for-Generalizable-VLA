@@ -1,12 +1,3 @@
-# Blender MTL File: 'None'
-# Material Count: 1
-
-newmtl 790_mtl
-Ns 96.078431
-Ka 0.000000 0.000000 0.000000
-Kd 0.274859 0.615992 0.637230
-Ks 0.500000 0.500000 0.500000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd 790.png
+version https://git-lfs.github.com/spec/v1
+oid sha256:122b84ae42f5699d54b2839a10ae91dcae41ef9f6fb8c98e2b4424a5dc74b649
+size 212

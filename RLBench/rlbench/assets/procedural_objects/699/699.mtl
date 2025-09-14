@@ -1,12 +1,3 @@
-# Blender MTL File: 'None'
-# Material Count: 1
-
-newmtl 699_mtl
-Ns 96.078431
-Ka 0.000000 0.000000 0.000000
-Kd 0.419419 0.077020 0.516189
-Ks 0.500000 0.500000 0.500000
-Ni 1.000000
-d 1.000000
-illum 2
-map_Kd 699.png
+version https://git-lfs.github.com/spec/v1
+oid sha256:612de35c0464b148a39b3e0457e017fb4a7692959ec1480fb5905f246f034f73
+size 212
