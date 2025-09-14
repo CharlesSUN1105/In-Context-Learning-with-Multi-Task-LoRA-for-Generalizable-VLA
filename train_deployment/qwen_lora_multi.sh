@@ -20,6 +20,7 @@ OMP_NUM_THREADS=4 vllm serve /home/s84414554/qwen3_finetune/checkpoints/Qwen3-8B
   --served-model-name "Qwen3-8B" \
   --enable-lora \
   --lora-modules \
+      close_jar_adapter=/home/s84414554/qwen3_finetune/roboprompt-data/output/close_jar \
       put_money_adapter=/home/s84414554/qwen3_finetune/roboprompt-data/output/put_money_in_safe \
       drawer_adapter=/home/s84414554/qwen3_finetune/roboprompt-data/output/open_drawer \
       place_wine_adapter=/home/s84414554/qwen3_finetune/roboprompt-data/output/place_wine_at_rack_location \
@@ -27,7 +28,6 @@ OMP_NUM_THREADS=4 vllm serve /home/s84414554/qwen3_finetune/checkpoints/Qwen3-8B
       stack_cups_adapter=/home/s84414554/qwen3_finetune/roboprompt-data/output/stack_cup \
       light_bulb_adapter=/home/s84414554/qwen3_finetune/roboprompt-data/output/light_bulb_in \
       stack_blocks_adapter=/home/s84414554/qwen3_finetune/roboprompt-data/output/stack_blocks \
-      
   --gpu-memory-utilization 0.90 \
   --max-model-len 32768 \
   --port 8001 \

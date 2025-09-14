@@ -21,7 +21,8 @@ TASK_TO_ADAPTER = {
     "place_wine_at_rack_location": "place_wine_adapter",
     "stack_cups": "stack_cups_adapter",
     "put_groceries_in_cupboard": "put_groceries_adapter",
-    "stack_blocks": "stack_blocks_adapter"
+    "stack_blocks": "stack_blocks_adapter",
+    "close_jar": "close_jar_adapter"
 }
 # Base model id (i.e., --served-model-name)
 BASE_MODEL_NAME = "Qwen3-8B"
