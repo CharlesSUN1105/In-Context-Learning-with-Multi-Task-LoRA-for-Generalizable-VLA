@@ -1,0 +1,6 @@
+openai
+scipy
+torch
+six
+transformers
+accelerate
